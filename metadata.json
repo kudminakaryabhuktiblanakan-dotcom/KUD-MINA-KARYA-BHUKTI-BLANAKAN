@@ -1,0 +1,7 @@
+{
+  "name": "Koperasi Tambak Lelang & Keuangan",
+  "description": "Sistem lelang komoditas tambak, bagi hasil berjenjang, retensi petani 3 bulan, dan tagihan berkala bakul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
